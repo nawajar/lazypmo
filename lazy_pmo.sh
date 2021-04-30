@@ -14,6 +14,3 @@ do
  echo ${json_payload}
  sleep 1
 done
-
-
-
